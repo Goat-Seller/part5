@@ -1,0 +1,33 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.success {
+    color: green;
+    padding: 10px;
+    font-size: 2em;
+    background: lightcyan;
+    border: 1px solid green;
+    font-style: italic;
+}
+.fail {
+    color: red;
+    padding: 10px;
+    font-size: 2em;
+    background: lightgray;
+    border: 1px solid red;
+    font-style: italic;
+}
+.ul li {
+    margin: 20px 0;
+    padding: 10px ;
+    line-height: 200%;
+    list-style-type: none;
+    border: 2px solid black;
+    width: 40vw;
+}
+em {
+    font-size: large;
+}
+.ul button{
+    margin: 15px;
+}
